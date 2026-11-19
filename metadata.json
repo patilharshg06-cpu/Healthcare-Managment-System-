@@ -1,0 +1,6 @@
+{
+  "name": "MediFlow — Healthcare Appointment Optimization System",
+  "description": "Streamline hospital scheduling, reduce patient wait times, prevent double-bookings, and optimize doctor queues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
